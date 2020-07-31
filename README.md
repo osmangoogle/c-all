@@ -4,22 +4,6 @@
 <h4 align="center">
   Tools For Cloning Facebook Random
 </h4>
-<div align="center">
-  <a href="https://github.com/anggaxd">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/dz-id/fb-bot.svg"/>
-  </a>
-  <a href="https://github.com/anggaxd">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/dz-id/fb-bot.svg"/>
-  </a>
-  <a href="https://github.com/anggaxd">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/dz-id/fb-bot.svg"/>
-  </a>
-  <a href="https://github.com/anggaxd">
-    <img alt="Search" src="https://img.shields.io/github/search/dz-id/fb-bot/fb-bot.svg"/>
-  </a>
-  <a href="https://github.com/anggaxd">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/dz-id/fb-bot.svg"/>
-  </a>
 </div>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/anggaxd">Angga Kurniawan</a>
