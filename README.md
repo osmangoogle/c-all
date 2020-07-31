@@ -9,7 +9,7 @@
   Made with ❤️ by <a href="https://github.com/anggaxd">Angga Kurniawan</a>
 </p>
 <p align="center">
- <img src="https://github.com/dz-id/fb-bot/blob/master/images/menu.png" width="640" title="Menu" alt="Menu">
+ <img src="https://ibb.co/23bbWCL" width="640" title="Menu" alt="Menu">
 </p>
 
 ## Features
