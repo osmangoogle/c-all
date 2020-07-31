@@ -5,32 +5,20 @@
   Tools For Cloning Facebook Random
 </h4>
 <div align="center">
-  <a href="https://github.com/dz-id">
+  <a href="https://github.com/anggaxd">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/dz-id/fb-bot.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
+  <a href="https://github.com/anggaxd">
     <img alt="Language" src="https://img.shields.io/github/languages/count/dz-id/fb-bot.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
+  <a href="https://github.com/anggaxd">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/dz-id/fb-bot.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
+  <a href="https://github.com/anggaxd">
     <img alt="Search" src="https://img.shields.io/github/search/dz-id/fb-bot/fb-bot.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
+  <a href="https://github.com/anggaxd">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/dz-id/fb-bot.svg"/>
-  </a>
-  <a href="https://github.com/dz-id">
-    <img alt="Starts" src="https://img.shields.io/github/stars/dz-id/fb-bot.svg"/>
-  </a>
-  <a href="https://github.com/dz-id">
-    <img alt="Forks" src="https://img.shields.io/github/forks/dz-id/fb-bot.svg"/>
-  </a>
-  <a href="https://github.com/dz-id">
-    <img alt="PHP 7.X" src="https://img.shields.io/badge/PHP-7.X-success.svg"/>
-  </a>
-  <a href="https://github.com/dz-id">
-    <img alt="PHP CURL" src="https://img.shields.io/badge/PHP%20CURL-ALL-success.svg"/>
   </a>
 </div>
 <p align="center">
