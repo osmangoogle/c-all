@@ -2,7 +2,7 @@
   CLONING ALL COUNTRIES
 </h1>
 <h4 align="center">
-  Tools For Cloning Facebook Random
+  Tools For Cloning Facebook
 </h4>
 </div>
 <p align="center">
@@ -24,11 +24,11 @@ $ pkg install python2
 $ pip2 install requests
 $ pip2 install mechanize
 $ pkg install git
-$ git clone https://github.com/anggaxd/fcid
+$ git clone https://github.com/anggaxd/c-all
 ```
 
 ## Run script
 ```
-$ cd fcid
-$ python2 fcid.py
+$ cd c-all
+$ python2 c-all.py
 ```
