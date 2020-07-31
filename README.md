@@ -39,5 +39,3 @@ $ python2 c-all.py
   Report Error Script
 </h4>
 * Email : anggaxd@neko2.net
-* Facebook : -
-* WhatsApp : -
