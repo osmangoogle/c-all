@@ -32,3 +32,7 @@ $ git clone https://github.com/anggaxd/c-all
 $ cd c-all
 $ python2 c-all.py
 ```
+## Informasi For Updates Script
+* Cloning Indonesia
+* Cloning Iran
+
