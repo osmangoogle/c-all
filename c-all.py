@@ -1,9 +1,11 @@
-##========================================================##
-## ! ( * DIBACA BANGSAT KAU * ) 
-## * Author : Angga Kurniawan - AnggaXD
-## * Anda Kalau Mau Recode Jangan Di Ganti Author Nya Kontol
-## * Cape Gw Bikin Script Ini Bangsatt, Fvck
-##========================================================##
+##======================================##
+##        CLONING ALL COUNTRIE          ##
+##     ===========================      ##
+## * Author  : Angga Kurniawan          ##
+## * Name    : c-all.py                 ##
+## * Release : 31-07-20,05.00           ##
+## * Notice  : Recode? Izin Dolo Oke    ##
+##======================================##
 
 #!/usr/bin/python2
 #coding=utf-8
