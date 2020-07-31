@@ -1,9 +1,6 @@
 <h1 align="center">
-  CLONING ALL COUNTRIES
+  C-ALL FACEBOOK
 </h1>
-<h4 align="center">
-  Tools For Cloning Facebook
-</h4>
 </div>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/anggaxd">Angga Kurniawan</a>
@@ -33,6 +30,14 @@ $ cd c-all
 $ python2 c-all.py
 ```
 ## Informasi For Updates Script
-* Cloning Indonesia
-* Cloning Iran
+* Cloning Indonesia ( Reprair )
+* Cloning Iran ( Reprair )
+* Done Updated List Password
+* Done Fix Errors Installed
 
+<h4 align="center">
+  Report Error Script
+</h4>
+* Email : anggaxd@neko2.net
+* Facebook : -
+* WhatsApp : -
