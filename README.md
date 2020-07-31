@@ -35,4 +35,4 @@ $ python2 c-all.py
 * Done Updated List Password
 * Done Fix Errors Installed
 
-Thanks For Using My Script Python Sir
+Thanks For Using My Script
