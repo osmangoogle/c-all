@@ -35,7 +35,4 @@ $ python2 c-all.py
 * Done Updated List Password
 * Done Fix Errors Installed
 
-<h4 align="center">
-  Report Error Script
-</h4>
-* Email : anggaxd@neko2.net
+Thanks For Using My Script Python Sir
